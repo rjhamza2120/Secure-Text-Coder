@@ -23,7 +23,7 @@ If the entered code matches one of the predefined codes ("bravo", "dragon", "its
   
   » Append three random characters at the beginning and end.
   
-  »For words with fewer than 3 characters, simply reverse the string.
+  » For words with fewer than 3 characters, simply reverse the string.
 
 #### • Decoding Rules:
 
@@ -41,26 +41,26 @@ When the user selects this option, they are prompted to choose between encoding 
 
 The user enters a message, which is then encoded based on the rules:
 
-  »For single-character words, the word is unchanged.
+  » For single-character words, the word is unchanged.
   
-  »For two-character words, the characters are swapped.
+  » For two-character words, the characters are swapped.
   
-  »For words with three or more characters, the first letter is moved to the end, and "cbi" is appended at the start and end.
+  » For words with three or more characters, the first letter is moved to the end, and "cbi" is appended at the start and end.
   
-  »The encoded message is displayed.
+  » The encoded message is displayed.
 
 
 #### • Decoding:
 
 The user enters a message, which is then decoded based on the rules:
 
-  »For single-character words, the word is unchanged.
+  » For single-character words, the word is unchanged.
 
-  »For two-character words, the characters are swapped.
+  » For two-character words, the characters are swapped.
   
-  »For words with three or more characters, the first and last three characters are removed, and the last letter is moved to the beginning.
+  » For words with three or more characters, the first and last three characters are removed, and the last letter is moved to the beginning.
 
-  »The decoded message is displayed.
+  » The decoded message is displayed.
 
 
 ### Exit:
